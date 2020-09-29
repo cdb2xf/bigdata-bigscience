@@ -1,0 +1,15 @@
+---
+title: "R to Share on Git"
+author: "Cam Bailey"
+date: "9/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+print("I'm Learning to Use Github...Boom")
+
+```
+
+
